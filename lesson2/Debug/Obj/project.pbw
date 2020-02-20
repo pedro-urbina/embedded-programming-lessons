@@ -7,7 +7,7 @@
     "location": {
       "column": "5",
       "line": "2",
-      "path": "C:\\development\\embedded-programming-lessons\\lesson1\\main.c"
+      "path": "C:\\development\\embedded-programming-lessons\\lesson2\\main.c"
     },
     "name": "main",
     "origin": "project_file",
@@ -21,7 +21,7 @@
     "location": {
       "column": "18",
       "line": "3",
-      "path": "C:\\development\\embedded-programming-lessons\\lesson1\\main.c"
+      "path": "C:\\development\\embedded-programming-lessons\\lesson2\\main.c"
     },
     "name": "counter",
     "origin": "project_file",
