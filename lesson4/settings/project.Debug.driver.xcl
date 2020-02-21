@@ -1,0 +1,17 @@
+"--endian=little" 
+
+"--cpu=Cortex-M4" 
+
+"--fpu=None" 
+
+"--drv_verify_download" 
+
+"--semihosting" 
+
+"--drv_interface_speed=500" 
+
+"--drv_interface=SWD" 
+
+
+
+
